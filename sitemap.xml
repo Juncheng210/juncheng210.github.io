@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>俊成的博客</title>
+  
+  
+  <link href="/sitemap.xml" rel="self"/>
+  
+  <link href="https://juncheng210.github.com/"/>
+  <updated>2019-06-29T17:35:22.324Z</updated>
+  <id>https://juncheng210.github.com/</id>
+  
+  <author>
+    <name>Juncheng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git常用命令速查表</title>
+    <link href="https://juncheng210.github.com/2019-06-30/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E8%A1%A8/"/>
+    <id>https://juncheng210.github.com/2019-06-30/Git常用命令速查表/</id>
+    <published>2019-06-30T05:58:51.000Z</published>
+    <updated>2019-06-29T17:35:22.324Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Git常用命令速查表&quot;&gt;&lt;a href=&quot;#Git常用命令速查表&quot; class=&quot;headerlink&quot; title=&quot;Git常用命令速查表&quot;&gt;&lt;/a&gt;Git常用命令速查表&lt;/h1&gt;&lt;p&gt;根据官方文档和网络资源整理&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;名词&lt;/strong&gt;    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;master: 默认开发分支&lt;/li&gt;
+&lt;li&gt;origin: 默认远程版本库&lt;/li&gt;
+&lt;li&gt;Index / Stage：暂存区&lt;/li&gt;
+&lt;li&gt;Workspace：工作区&lt;/li&gt;
+&lt;li&gt;Repository：仓库区（或本地仓库）&lt;/li&gt;
+&lt;li&gt;Remote：远程仓库
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="https://juncheng210.github.com/tags/Git/"/>
+    
+  </entry>
+  
+</feed>
